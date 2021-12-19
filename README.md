@@ -32,10 +32,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app\n.
-First experience with kotlin\n. 
-Navigating android studio (complex IDE)\n.
-Slow emulator (it got better once it build everything up)
+Describe any challenges encountered while building the app.
+First experience with kotlin. 
+Navigating android studio (complex IDE).
+Slow emulator (it got better once it build everything up).
 
 ## License
 
