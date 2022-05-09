@@ -1,10 +1,10 @@
-# Project 1 - *Simple Todo*
+# Introduction to Android Development - *Simple Todo*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Julio Alva**
+By: **Julio Alva**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -32,10 +32,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-First experience with kotlin. 
-Navigating android studio (complex IDE).
-Slow emulator (it got better once it build everything up).
+This was a nice first experience with Android development. 
+Android studio is a complex IDE, it will get better with time.
+Run the emulator so that app doesn't take too long to run.
 
 ## License
 
